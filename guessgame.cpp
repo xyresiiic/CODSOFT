@@ -1,6 +1,3 @@
-// A simple guess a number game with score
-//We have to guess a number from 1 to 10 which is generated if we'll guess write +1 score is given
-
 #include<iostream>
 #include<cstdlib>
 using namespace std;
